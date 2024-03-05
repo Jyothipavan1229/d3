@@ -1,4 +1,4 @@
-date,EstimatedCost,RawMaterial,Workmanship,StorageCost,ActualCost,SoldPrice,Margin of Profit
+Date,EstimatedCost,RawMaterial,Workmanship,StorageCost,ActualCost,SoldPrice,MarginofProfit
 1/1/19,1094,211,386,40,637,1203.4,566.41
 2/1/19,2850,523,199,49,771,3135.5,2364
 3/1/19,2168,580,236,39,855,2384.8,1529.82
